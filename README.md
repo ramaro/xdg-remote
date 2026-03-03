@@ -1,4 +1,4 @@
-# xdg-remote
+# xdg-remote-open
 
 Open URLs in your local browser when working on a remote machine via SSH.
 
